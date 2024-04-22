@@ -12,7 +12,7 @@ php bin/console doctrine:migrations:migrate
 php bin/console app:import-data
 
 #
-#Файл Импорт.Остатки.2024.02.14.xlsx находится по пути "im\src\Импорт.Остатки.2024.02.14.xlsx "
+#Файл Импорт.Остатки.2024.02.14.xlsx находится по пути "\src\Импорт.Остатки.2024.02.14.xlsx "
 
 ###
 #
